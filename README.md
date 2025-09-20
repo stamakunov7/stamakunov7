@@ -37,24 +37,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stamakunov7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stamakunov7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-## 🏆 Experience Highlights
-
-- 🏦 **Software Engineer Intern** at MDigital (Mbank) - Java Spring Boot microservices
-- 🛒 **Software Engineer Intern** at Premio - Next.js e-commerce platform  
-- 🚗 **Full-Stack Developer** - Car Marketplace with React/Node.js
-- 🔍 **ML Engineer** - Fraud Detection System (88% accuracy)
-
-## 🎯 Current Focus
-
-- 📚 Studying Computer Science at Stetson University (GPA: 3.94)
-- 💼 Preparing for Software Engineering interviews
-- 🔨 Building scalable web applications
-- 🤖 Exploring machine learning and data science
-
-## ⚡ Fun Facts
-
-- 🌍 From Kyrgyz Republic, studying in Florida
-- 🏆 Dean's List every semester
-- 👨‍🏫 Teaching Assistant for Java courses
-- 🎯 Improved fraud detection accuracy by 34%
