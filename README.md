@@ -1,4 +1,4 @@
-# Hi 👋! My name is Temirlan and I'm a CS student @ Stetson University
+# Hi it's Temir 👋! CS student @ Stetson University
 
 ## 🚀 Tech Stack
 
