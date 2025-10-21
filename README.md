@@ -3,16 +3,16 @@
 🎓 **CS student @ Stetson University**  
 💻 Software Engineer passionate about **scalable systems**, **microservices**, and **impactful software**.
 
-### 🧠 Experience
+## 🧠 Experience
 - **Software Engineer Intern @ MDigital (Mbank)** — built Spring Boot microservices and automated data validation with Python  
 - **Software Engineer Intern @ Premio** — developed a Next.js e-commerce platform with Stripe payments and Prisma ORM  
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 🌐 [LinkedIn](https://www.linkedin.com/in/stamakunov7/)  
 💻 [GitHub](https://github.com/stamakunov7)  
 📧 tstamakunov@stetson.edu
 
-### 🔬 Featured Projects
+## 🔬 Featured Projects
 - **[CarMarket](https://car-market-sage.vercel.app/)** — full-stack car marketplace, cloud-native with real-time search, security, and scalability.
 - **[MyzamAI](https://github.com/stamakunov7/MyzamAI)** — legal AI assistant powered by Llama3 (Meta) & the Civil Code of Kyrgyz Republic
 
