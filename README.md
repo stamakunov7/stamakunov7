@@ -1,4 +1,7 @@
-# Hi it's Temir 👋! CS student @ Stetson University
+# Hello, it's Temir Stam!
+
+🎓 **CS student @ Stetson University**  
+💻 Software Engineer passionate about **scalable systems**, **microservices**, and **impactful software**.
 
 ## 🚀 Tech Stack
 
