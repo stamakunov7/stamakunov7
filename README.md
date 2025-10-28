@@ -12,11 +12,6 @@
 - **[MyzamAI](https://github.com/stamakunov7/MyzamAI)** — legal AI assistant powered by Llama3 (Meta) & the Civil Code of Kyrgyz Republic
 - **[AruuNote](https://github.com/stamakunov7/AruuNote)** - AruuNote is a simple yet powerful tool for converting audio into text using OpenAI Whisper.
 
-## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/stamakunov7/)  
-- 💻 [GitHub](https://github.com/stamakunov7)  
-- 📧 tstamakunov@stetson.edu
-
 ## 🚀 Tech Stack
 
 <div align="left">
