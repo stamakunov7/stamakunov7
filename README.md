@@ -10,8 +10,8 @@
 ## 🔬 Featured Projects
 - **[CarMarket](https://car-market-sage.vercel.app/)** — full-stack car marketplace, cloud-native with real-time search, security, and scalability.
 - **[MyzamAI](https://github.com/stamakunov7/MyzamAI)** — legal AI assistant powered by Llama3 (Meta) & the Civil Code of Kyrgyz Republic
-- **[AruuNote](https://github.com/stamakunov7/AruuNote)** - AruuNote is a simple yet powerful tool for converting audio into text using OpenAI Whisper.
 - **[GCP-Event-Logger](https://github.com/stamakunov7/GCP-Event-Logger)** - Event-driven logging pipeline built with Python on Google Cloud (Cloud Run, Pub/sub, Spanner, Docker).
+- **[AruuNote](https://github.com/stamakunov7/AruuNote)** - AruuNote is a simple yet powerful tool for converting audio into text using OpenAI Whisper.
 
 ## 🚀 Tech Stack
 
