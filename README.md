@@ -48,10 +48,5 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stamakunov7&theme=github_dark" alt="Stats Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stamakunov7&theme=github_dark" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stamakunov7&theme=github_dark" alt="Most Commit Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stamakunov7&theme=github-dark&hide_border=true&area=true" />
 </p>
