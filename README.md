@@ -4,8 +4,10 @@
 💻 Software Engineer passionate about **distributed systems**, **infrastructure**, **AI/ML tools** and **impactful software**.
 
 ## 🧠 Experience
-- **Software Engineer Intern @ MDigital (Mbank)** — built Spring Boot microservices and automated data-validation pipelines with Python 
-- **Software Engineer Intern @ [Premio](https://premio.kg)** — developed a scalable Next.js e-commerce platform with Stripe payments and Prisma ORM  
+- **Software Engineer Intern @ MDigital (Mbank)**
+Developed Spring Boot microservices for high-volume credit processing, optimized PostgreSQL performance (2× faster), and built automated Python validation pipelines
+- **Software Engineer Intern @ [Premio](https://premio.kg)**
+Built a production-grade Next.js e-commerce platform with Stripe, Prisma, and optimized UX/performance (30% UX uplift, 18% conversion increase)
 
 ## 🔬 Featured Projects
 - **[CarMarket](https://car-market-sage.vercel.app/)** — full-stack car marketplace, cloud-native with real-time search, security, and scalability.
