@@ -5,9 +5,9 @@
 
 ## 🧠 Experience
 - **Software Engineer Intern @ MDigital (Mbank)**
-Developed Spring Boot microservices for high-volume credit processing, optimized PostgreSQL performance (2× faster), and built automated Python validation pipelines
+  Built Spring Boot microservices for credit processing (10k+ monthly applications), optimized PostgreSQL queries (2× faster), automated Python data-validation pipelines (~20% faster), and improved deployment reliability with JUnit tests + Docker CI/CD.
 - **Software Engineer Intern @ [Premio](https://premio.kg)**
-Built a production-grade Next.js e-commerce platform with Stripe, Prisma, and optimized UX/performance (30% UX uplift, 18% conversion increase)
+  Developed a full-stack Next.js e-commerce platform with Stripe checkout, Prisma ORM, optimized filters, and responsive UI — improving mobile UX by 30%, boosting conversions by 18%, and reducing page load times by 40%.
 
 ## 🔬 Featured Projects
 - **[CarMarket](https://car-market-sage.vercel.app/)** — full-stack car marketplace, cloud-native with real-time search, security, and scalability.
