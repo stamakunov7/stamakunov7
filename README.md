@@ -47,6 +47,6 @@
 
 ### 📊 GitHub Overview
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=stamakunov7&theme=github-dark&hide_border=true&area=true" />
 </p>
