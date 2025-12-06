@@ -4,7 +4,7 @@
 💻 Software Engineer passionate about **distributed systems**, **infrastructure**, **AI/ML tools** and **impactful software**.
 
 ## 🧠 Experience
-- **Software Engineer Intern @ MDigital (Mbank)** <br>
+- **Software Engineer Intern @ [MDigital (Mbank)](https://mdigital.kg/)** <br>
   Built Spring Boot microservices for credit processing (10k+ monthly applications), optimized PostgreSQL queries (2× faster), automated Python data-validation pipelines (~20% faster), and improved deployment reliability: JUnit tests + Docker CI/CD.
 - **Software Engineer Intern @ [Premio](https://premio.kg)** <br>
   Developed a full-stack Next.js e-commerce platform with Stripe checkout, Prisma ORM, optimized filters, and responsive UI — improving mobile UX by 30%, boosting conversions by 18%, and reducing page load times by 40%.
