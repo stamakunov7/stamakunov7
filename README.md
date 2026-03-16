@@ -1,6 +1,6 @@
 # Hello, it's Temir Stam! 👋
 
-🎓 **Incoming SWE Intern @ Google | CS student @ Stetson University**
+🎓 **CS student @ Stetson University**
 💻 Software Engineer passionate about **distributed systems**, **infrastructure**, **AI/ML tools** and **impactful software**.
 
 ## 🧠 Experience
