@@ -4,6 +4,7 @@
 💻 Software Engineer passionate about **distributed systems**, **infrastructure**, **AI/ML tools** and **impactful software**.
 
 ## 🧠 Experience
+- **Incoming SWE Intern @ [Google](https://google.com)** <br>
 - **Software Engineer Intern @ [MDigital (Mbank)](https://mdigital.kg/)** <br>
   Built Spring Boot microservices for credit processing (10k+ monthly applications), optimized PostgreSQL queries (2× faster), automated Python data-validation pipelines (~20% faster), and improved deployment reliability: JUnit tests + Docker CI/CD.
 - **Software Engineer Intern @ [Premio](https://premio.kg)** <br>
